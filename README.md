@@ -56,10 +56,7 @@ Everything I build is open-source and documented. I prefer shipping verifiable w
 
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aayushbankar&theme=tokyonight&hide_border=true)
-
-<!-- Trophies -->
-![trophy](https://github-profile-trophy.vercel.app/?username=Aayushbankar&theme=tokyonight&no-frame=true&margin-w=15)
-
+ 
 ---
 
 ### &#x1F517; Connect
