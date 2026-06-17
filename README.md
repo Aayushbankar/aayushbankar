@@ -56,7 +56,10 @@ Everything I build is open-source and documented. I prefer shipping verifiable w
 
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aayushbankar&theme=tokyonight&hide_border=true)
- 
+ ### &#x1F393; Certifications
+ - **Certified AppSec Practitioner v2 (CAP)** - The SecOps Group (June 2026)
+ - **Certified Network Security Practitioner (CNSP)** - The SecOps Group (June 2026)
+   
 ---
 
 ### &#x1F517; Connect
