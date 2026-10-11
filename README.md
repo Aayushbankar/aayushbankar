@@ -1,25 +1,28 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Aayush Bankar — Systems Security Researcher" />
+<img src="assets/hero.svg" width="100%" alt="Aayush Bankar — Systems Security Researcher &amp; AI-Augmented Engineer" />
 
-<br/><br/>
+<br/>
+
+<a href="https://www.linkedin.com/in/aayushbankar/"><img src="https://img.shields.io/badge/LINKEDIN-aayushbankar-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070c" alt="LinkedIn" /></a>
+<a href="https://aayushbankar.github.io/webfolio/"><img src="https://img.shields.io/badge/WEBFOLIO-portfolio-00e5ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=05070c" alt="Webfolio" /></a>
+<a href="mailto:aayushbankar42@gmail.com"><img src="https://img.shields.io/badge/SECURE_EMAIL-contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070c" alt="Email" /></a>
+<a href="https://github.com/Aayushbankar?tab=repositories"><img src="https://img.shields.io/badge/REPOS-browse_all-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=05070c" alt="Repositories" /></a>
+
+<br/>
 
 <a href="https://cyphermatrix.io/"><img src="https://img.shields.io/badge/ROLE-Cybersecurity_Analyst_%40_CypherMatrix-00e5ff?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=05070c" alt="Role" /></a>
 <a href="https://github.com/Aayushbankar/spectre-prism"><img src="https://img.shields.io/badge/HACKATHON-SIH_2026_Screening_Round-f59e0b?style=for-the-badge&logo=target&logoColor=white&labelColor=05070c" alt="SIH 2026" /></a>
 <a href="https://en.wikipedia.org/wiki/Gandhinagar"><img src="https://img.shields.io/badge/LOCATION-Gandhinagar%2C_India-10b981?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=05070c" alt="Location" /></a>
-<a href="https://github.com/Aayushbankar?tab=repositories"><img src="https://img.shields.io/badge/FOCUS-Kernel_%26_Exploit_Research-ec4899?style=for-the-badge&labelColor=05070c" alt="Focus" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Aayushbankar&style=for-the-badge&color=00e5ff&labelColor=05070c&label=RESEARCH+HITS" alt="Profile views" />
 <a href="https://github.com/Aayushbankar?tab=followers"><img src="https://img.shields.io/github/followers/Aayushbankar?style=for-the-badge&logo=github&logoColor=00e5ff&label=OPERATORS&labelColor=05070c&color=0d1117" alt="Followers" /></a>
-<img src="https://img.shields.io/badge/STATUS-Active_Research-38bdf8?style=for-the-badge&labelColor=05070c" alt="Status" />
 
 </div>
 
 <img src="assets/rule.svg" width="100%" alt="" />
 
 <h2><samp>&#9608;&#9617;&nbsp;&nbsp;01 &#8212; IDENTITY</samp></h2>
+
+<img src="assets/whoami.svg" width="100%" alt="whoami --verbose: handle Aayushbankar, Cybersecurity Analyst @ CypherMatrix, kernel &amp; android vuln research, systems architecture" />
 
 I research low-level memory corruption and architect sovereign systems where execution integrity is mathematically verifiable. Most of my work sits at the boundary between **operating system internals**, **exploit primitive synthesis**, and **high-throughput architectures**:
 
@@ -138,8 +141,7 @@ I research low-level memory corruption and architect sovereign systems where exe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aayushbankar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050811&title_color=00e5ff&icon_color=00e5ff&text_color=94a3b8" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushbankar&theme=tokyonight&hide_border=true&background=050811&ring=00e5ff&fire=f59e0b&currStreakNum=00e5ff&sideNums=94a3b8" height="170" alt="GitHub Streak" />
+<img src="assets/stats.svg" width="100%" alt="Systems &amp; GitHub Telemetry: Repositories, Contributions, CVE Tracks, Language Distribution" />
 
 <br/><br/>
 
@@ -200,6 +202,6 @@ $ tail -f ~/ops/NOW.log
 
 <br/><br/>
 
-<sub>End of transmission &#8226; All research performed on authorized targets under controlled lab environments.</sub>
+<img src="assets/footer.svg" width="100%" alt="End of transmission — all research performed under controlled lab environments" />
 
 </div>
