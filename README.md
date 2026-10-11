@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/aayushbankar/"><img src="https://img.shields.io/badge/LINKEDIN-aayushbankar-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070c" alt="LinkedIn" /></a>
-<a href="https://aayushbankar.github.io/webfolio/"><img src="https://img.shields.io/badge/WEBFOLIO-portfolio-00e5ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=05070c" alt="Webfolio" /></a>
+<a href="https://aayushbankar.github.io/"><img src="https://img.shields.io/badge/RESEARCH_NODE-live_platform-00e5ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=05070c" alt="Research Node" /></a>
 <a href="mailto:aayushbankar42@gmail.com"><img src="https://img.shields.io/badge/SECURE_EMAIL-contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070c" alt="Email" /></a>
 <a href="https://github.com/Aayushbankar?tab=repositories"><img src="https://img.shields.io/badge/REPOS-browse_all-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=05070c" alt="Repositories" /></a>
 
@@ -196,7 +196,7 @@ $ tail -f ~/ops/NOW.log
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aayushbankar/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070c" alt="LinkedIn" /></a>
-<a href="https://aayushbankar.github.io/webfolio/"><img src="https://img.shields.io/badge/EXPLORE_WEBFOLIO-00e5ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=05070c" alt="Webfolio" /></a>
+<a href="https://aayushbankar.github.io/"><img src="https://img.shields.io/badge/EXPLORE_RESEARCH_NODE-00e5ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=05070c" alt="Research Node" /></a>
 <a href="mailto:aayushbankar42@gmail.com"><img src="https://img.shields.io/badge/SECURE_EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070c" alt="Email" /></a>
 <a href="https://github.com/Aayushbankar"><img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=05070c" alt="GitHub" /></a>
 
