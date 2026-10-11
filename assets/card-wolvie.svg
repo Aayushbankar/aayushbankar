@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 180" width="580" height="180" role="img" aria-label="Wolvie Local Voice Companion">
+<defs>
+  <linearGradient id="cardGrad4" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0b1324"/>
+    <stop offset="100%" stop-color="#040814"/>
+  </linearGradient>
+  <linearGradient id="wolvieAccent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#f59e0b"/>
+    <stop offset="100%" stop-color="#ec4899"/>
+  </linearGradient>
+</defs>
+<rect width="580" height="180" rx="10" fill="url(#cardGrad4)" stroke="#1e293b" stroke-width="1.2"/>
+<rect x="0" y="0" width="6" height="180" rx="3" fill="url(#wolvieAccent)"/>
+<g transform="translate(30, 32)">
+  <text x="0" y="0" font-family="ui-monospace,monospace" font-size="11" font-weight="700" fill="#f59e0b" letter-spacing="1.5">APPLIED AI // REAL-TIME MULTIMODAL</text>
+  <text x="0" y="26" font-family="ui-monospace,monospace" font-size="19" font-weight="800" fill="#f8fafc">Wolvie: Local Voice Companion</text>
+  <text x="0" y="52" font-family="ui-monospace,monospace" font-size="13" fill="#94a3b8">Voice-first AI architecture running fully on-device:</text>
+  <text x="0" y="70" font-family="ui-monospace,monospace" font-size="13" fill="#94a3b8">WebRTC + llama.cpp + faster-whisper + Piper TTS.</text>
+  
+  <g transform="translate(0, 92)">
+    <rect x="0" y="0" width="85" height="22" rx="4" fill="#1e293b"/>
+    <text x="8" y="15" font-family="ui-monospace,monospace" font-size="11" fill="#fbbf24">100% Local</text>
+    <rect x="95" y="0" width="80" height="22" rx="4" fill="#1e293b"/>
+    <text x="103" y="15" font-family="ui-monospace,monospace" font-size="11" fill="#38bdf8">WebRTC</text>
+    <rect x="185" y="0" width="90" height="22" rx="4" fill="#1e293b"/>
+    <text x="193" y="15" font-family="ui-monospace,monospace" font-size="11" fill="#c084fc">llama.cpp</text>
+    <rect x="285" y="0" width="105" height="22" rx="4" fill="#1e293b"/>
+    <text x="293" y="15" font-family="ui-monospace,monospace" font-size="11" fill="#34d399">Sub-150ms VAD</text>
+  </g>
+</g>
+</svg>
