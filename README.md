@@ -1,69 +1,53 @@
 # Aayush Bankar
-### IT Student | Backend Systems | Security
+### Systems Security Researcher & AI-Augmented Engineer
+**Location:** Gandhinagar, Gujarat, India  
+**Affiliations:** Cybersecurity Analyst at [CypherMatrix](https://cyphermatrix.io/) · IT Student at Govt. Polytechnic Gandhinagar
 
 ---
 
-### About
+### 📌 About
+I am a systems security researcher and software engineer operating at the intersection of **low-level systems security**, **architectural design**, and **AI-augmented engineering workflows**. 
 
-I am an IT student who learns by building real systems and publishing the code. My current work spans secure backend architectures, vulnerability intelligence feeds, and local AI inference on constrained hardware.
-
-Everything I build is open-source and documented. I prefer shipping verifiable work over making claims.
-
----
-
-### &#x1F6E0;&#xFE0F; Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Backend & Data**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**AI / ML**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-333333?style=for-the-badge&logo=meta&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
-
-**Tools & Ops**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
+My core focus spans:
+- **Vulnerability & Exploit Research:** Linux kernel UAF exploitation, SLUB allocator mechanics, cross-cache heap spraying, and Android platform security.
+- **Sovereign Systems Architecture:** Designing high-throughput data processing engines and cryptographic provenance pipelines.
+- **AI Systems & Local Inference:** Real-time local voice companions and privacy-preserving RAG architectures.
+- **Disciplined Engineering:** Pairing high-level systems orchestration with daily, unassisted low-level coding practice.
 
 ---
 
-### &#x1F4C2; Featured Work
+### 📂 Flagship Research & Engineering Repositories
 
-| **Project** | **Description** | **Stack** |
-| :--- | :--- | :--- |
-| [**CVE Intelligence Aggregator**](https://github.com/Aayushbankar/cve_aggregator) | Self-hosted threat intelligence platform. Aggregates CVEs from NVD, CISA KEV, and GitHub Advisories. Thread-safe background sync, self-healing API rate limits, composite priority scoring. | `Flask` `SQLite` `APScheduler` `REST APIs` |
-| [**OneTimeShare**](https://github.com/Aayushbankar/onetimeshare) | Ephemeral file-sharing service. Atomic Redis operations prevent race conditions on one-time downloads. TTL-based auto-expiration, UUID file tokens, Docker Compose deployment. | `Flask` `Redis` `Docker` `JS` |
-| [**Official IT Dept Website**](https://itgpg.github.io/it/) | **[Live]** Production website for Govt. Polytechnic Gandhinagar IT Department, serving 500+ users. Headless CMS via Google Drive API. Automated CI/CD with GitHub Actions. | `Jekyll` `JS` `Google Drive API` |
-| [**Privata**](https://github.com/Aayushbankar/privata) | Offline RAG document query tool. Local embeddings with Sentence Transformers, ChromaDB vector search, Gemini API for generation. No cloud dependency for ingestion. | `LangChain` `ChromaDB` `Gemini API` |
+| Domain | Project | Key Highlights | Stack / Focus |
+| :--- | :--- | :--- | :--- |
+| 🔐 **Vulnerability Research** | [**cve-2026-28576**](https://github.com/Aayushbankar/cve-2026-28576) | Zero-permission boolean-oracle SQL Injection in Android `ContactsProvider` via `targetSdk`-gated `ENFORCE_STRICT_SQL_CHECKS`. Complete PoC + Red Team validation tool. | Java, Android Internals, YARA, Suricata |
+| 🔐 **Kernel Exploitation** | [**bad_epoll_ab_tier2**](https://github.com/Aayushbankar/bad_epoll_ab_tier2) | CVE-2026-46242 Linux epoll UAF root exploit reproduction (x86_64) + research porting to Android ARM64 GKI under kCFI & PAC mitigations. | C, Linux Kernel, SLUB, GDB, QEMU |
+| ⚡ **Systems Architecture** | [**spectre-prism**](https://github.com/Aayushbankar/spectre-prism) | **SIH 2026 Screening Round (Internal College Cleared).** Sovereign 5-plane log processing framework featuring SIMD zero-copy ingestion, 13K EPS, and BLAKE3 verifiable audit logging. | Systems Architecture, OCSF, Ed25519 Quorum |
+| 🤖 **Local AI & Audio** | [**wolvie**](https://github.com/Aayushbankar/wolvie) | Original voice-first AI companion architecture for real-time natural conversation on consumer hardware without cloud dependencies. | Python, WebRTC, llama.cpp, Whisper, Piper |
+| ⚡ **Fintech Systems** | [**Quantlab**](https://github.com/Aayushbankar/Quantlab) | Algorithmic trading backtesting engine explicitly modeling slippage, trading friction, and out-of-sample decay. *(College Minor Project)* | Python, Pandas, Streamlit |
+| 🔐 **Threat Intelligence** | [**cve_aggregator**](https://github.com/Aayushbankar/cve_aggregator) | Automated vulnerability feed normalizer and composite priority scorer integrating NVD API v2.0, CISA KEV, and GitHub Advisories. | Python, Flask, SQLite, APScheduler |
 
 ---
 
-### &#x1F4CA; Metrics
+### 🛠️ Systems & Tooling Stack
 
-<!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aayushbankar&theme=tokyonight&hide_border=true)
- ### &#x1F393; Certifications
- - **Certified AppSec Practitioner v2 (CAP)** - The SecOps Group (June 2026)
- - **Certified Network Security Practitioner (CNSP)** - The SecOps Group (June 2026)
-   
+- **Languages:** Python, C, Java, JavaScript, PHP, Bash, SQL
+- **Systems & Kernel:** Linux (Arch/EndeavourOS), QEMU/KVM, GDB, SLUB Allocator, eBPF telemetry hooks, POSIX Sockets
+- **Security & Analysis:** Burp Suite, YARA, Suricata, OWASP Top 10, Threat Modeling, Exploit Reproduction
+- **Web & Frameworks:** React, Tailwind CSS, GSAP, Flask, FastAPI, Redis, SQLite, Docker, Jekyll
+- **AI & Local Inference:** `llama.cpp`, Sentence Transformers, ChromaDB, Whisper, Silero VAD, Piper TTS
+
 ---
 
-### &#x1F517; Connect
+### 🎓 Certifications & Formal Recognition
+- **Certified AppSec Practitioner v2 (CAP)** — *The SecOps Group (June 2026)*
+- **Certified Network Security Practitioner (CNSP)** — *The SecOps Group (June 2026)*
+- **IBM SkillsBuild Cybersecurity Credential & Evaluation Rubrics (Score: 48/50)** — *IBM / CSRBOX (July 2026)*
+- **Smart India Hackathon (SIH 2026)** — *Cleared Internal College Hackathon Round (Team SPECTRE)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushbankar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://aayushbankar.github.io/webfolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushbankar42@gmail.com)
+---
+
+### 🔗 Connect & Digital Footprint
+- 💼 **LinkedIn:** [/in/aayushbankar](https://www.linkedin.com/in/aayushbankar/)
+- 🌐 **Portfolio & Writings:** [aayushbankar.github.io/webfolio/](https://aayushbankar.github.io/webfolio/)
+- ✉️ **Email:** `aayushbankar42@gmail.com`
