@@ -35,17 +35,17 @@ I research low-level memory corruption and architect sovereign systems where exe
 
 <img src="assets/rule.svg" width="100%" alt="" />
 
-<h2><samp>&#9608;&#9617;&nbsp;&nbsp;02 &#8212; RESEARCH METHODOLOGY</samp></h2>
+<h2><samp>&#9608;&#9617;&nbsp;&nbsp;02 &#8212; RESEARCH &amp; VERIFICATION METHODOLOGY</samp></h2>
 
-<img src="assets/ops-chain.svg" width="100%" alt="Research and Exploit Lifecycle: Surface Triage, Reproduction, Heap Grooming, Mitigation Bypass, Verification" />
+<img src="assets/ops-chain.svg" width="100%" alt="Research and Verification Lifecycle: Threat Model, Lab Harness, AI Synthesis, Proof Ledger, Harden and Release" />
 
 | Phase | Operational Scope &amp; Deliverables |
 | :--- | :--- |
-| **01 Surface Triage** | Audit syscall surfaces, Binder IPC endpoints, and ContentProvider query parameters for privilege boundaries. |
-| **02 Reproduction** | Construct deterministic crash harnesses in QEMU/KVM and AVDs with GDB script automation and KASAN telemetry. |
-| **03 Heap Grooming** | Isolate slab caches, calibrate SLUB freelist allocations, and land cross-cache sprays (`msg_msg` kmalloc-192). |
-| **04 Mitigation Bypass** | Map gadget spaces under `CONFIG_RETPOLINE`, analyze kCFI dispatch tables, and evaluate ARM64 PAC/BTI barriers. |
-| **05 Verification** | Maintain strict empirical verification ledgers, release defensive YARA/Suricata rules, and publish formal writeups. |
+| **01 Threat Model** | Audit target attack surfaces, security advisories, and architecture trust boundaries before writing test harnesses. |
+| **02 Lab Harness** | Stand up reproducible QEMU/KVM virtual machines, AVD emulators, or isolated containers with automated debug tooling. |
+| **03 AI Synthesis** | Direct multi-agent technical prompts, orchestrate code synthesis, and guide low-level exploit primitives or system pipelines. |
+| **04 Proof Ledger** | Log all test vectors, telemetry runs, memory dumps, and reproduction timestamps into mathematically auditable verification ledgers. |
+| **05 Harden &amp; Disclose** | Produce defensive signatures (YARA/Suricata), architect patch mitigations, and submit coordinated disclosures to upstream vendors. |
 
 <img src="assets/rule.svg" width="100%" alt="" />
 

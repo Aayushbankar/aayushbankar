@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 185" width="1200" height="185" role="img" aria-label="Research and Exploit Lifecycle: Surface Triage, Reproduction, Heap Grooming, Mitigation Bypass, Verification">
-<title>Systems Security Research Lifecycle</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 185" width="1200" height="185" role="img" aria-label="Research and Verification Lifecycle: Threat Model, Lab Harness, AI Synthesis, Proof Ledger, Harden and Release">
+<title>Research &amp; Verification Lifecycle</title>
 
 <defs>
   <linearGradient id="pbg" x1="0" y1="0" x2="0" y2="1">
@@ -74,24 +74,24 @@
 
   <!-- Inactive Subtitles -->
   <g font-size="11.5" letter-spacing="1.8" text-anchor="middle" fill="#475569">
-    <text x="120" y="126">SURFACE TRIAGE</text>
-    <text x="360" y="126">REPRODUCTION</text>
-    <text x="600" y="126">HEAP GROOMING</text>
-    <text x="840" y="126">MITIGATION BYPASS</text>
-    <text x="1080" y="126">VERIFICATION</text>
+    <text x="120" y="126">THREAT MODEL</text>
+    <text x="360" y="126">LAB HARNESS</text>
+    <text x="600" y="126">AI SYNTHESIS</text>
+    <text x="840" y="126">PROOF LEDGER</text>
+    <text x="1080" y="126">HARDEN &amp; DISCLOSE</text>
   </g>
 
   <!-- Synchronized Cyan Glowing Labels -->
   <g font-size="11.5" letter-spacing="1.8" text-anchor="middle" fill="#00e5ff">
-    <text x="120" y="126" opacity="0">SURFACE TRIAGE
+    <text x="120" y="126" opacity="0">THREAT MODEL
       <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.16;0.19;1" dur="10s" repeatCount="indefinite"/></text>
-    <text x="360" y="126" opacity="0">REPRODUCTION
+    <text x="360" y="126" opacity="0">LAB HARNESS
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.22;0.25;0.39;0.42;1" dur="10s" repeatCount="indefinite"/></text>
-    <text x="600" y="126" opacity="0">HEAP GROOMING
+    <text x="600" y="126" opacity="0">AI SYNTHESIS
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.45;0.48;0.62;0.65;1" dur="10s" repeatCount="indefinite"/></text>
-    <text x="840" y="126" opacity="0">MITIGATION BYPASS
+    <text x="840" y="126" opacity="0">PROOF LEDGER
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.68;0.71;0.85;0.88;1" dur="10s" repeatCount="indefinite"/></text>
-    <text x="1080" y="126" opacity="0">VERIFICATION
+    <text x="1080" y="126" opacity="0">HARDEN &amp; DISCLOSE
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.90;0.93;0.98;1;1" dur="10s" repeatCount="indefinite"/></text>
   </g>
 </g>
@@ -99,6 +99,6 @@
 <!-- Footer Telemetry Micro-Rail -->
 <path d="M40 156 H1160" stroke="#0e1a2b"/>
 <text class="m" x="600" y="173" font-size="10.5" letter-spacing="2.8" text-anchor="middle" fill="#475569">
-  SCOPED AUTHORIZED RESEARCH ONLY &#160;&#183;&#160; MATHEMATICALLY VERIFIABLE EXECUTION &#160;&#183;&#160; RESPONSIBLE DISCLOSURE
+  RECON &amp; THREAT MODEL &#160;&#183;&#160; LAB HARNESS &#160;&#183;&#160; AI SYNTHESIS &#160;&#183;&#160; EMPIRICAL LEDGER &#160;&#183;&#160; HARDEN &amp; DISCLOSE
 </text>
 </svg>
