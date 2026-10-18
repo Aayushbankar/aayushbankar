@@ -161,8 +161,11 @@ $ tail -f ~/ops/NOW.log
 [ACTIVE]  SPECTRE-PRISM  :: SIH 2026 screening prep + 13K EPS benchmark telemetry
 [ACTIVE]  QuantLab       :: transaction cost decay model & college minor project wrap
 [ONGOING] Wolvie         :: ultra-low latency local VAD & WebRTC audio pipeline tuning
-[ONGOING] Systems Rehab  :: daily unassisted zero-AI low-level socket & C implementations
 ```
+
+- ⚡ AI-Augmented Systems Engineering & Architecture Prototyping
+- 🛡️ Empirical Vulnerability Research & Security Telemetry
+- 🌐 High-Availability Static Campus Web Platforms (500+ Daily Users)
 
 <table>
 <tr>
